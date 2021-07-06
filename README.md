@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi Folks! 👋
+
+Welcome to my GitHub repository.
+
+🔭 I’m currently working on my site https://romulofpaiva.github.io/
+📫 How to reach me: https://www.linkedin.com/in/romulofpaiva/
 
 <!--
 **romulofpaiva/romulofpaiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
